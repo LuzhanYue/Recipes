@@ -1,0 +1,2 @@
+*.png          #not looking for any ends with .png
+receipts/      # track over directory receipts
